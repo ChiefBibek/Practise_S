@@ -1,8 +1,4 @@
-##USER:
-for Deep learning , give me one best
 
-##ASSISTANT:
-For deep learning, the **best approach** for seismic detection in this case would be a **hybrid CNN-LSTM model**. This combines the strengths of both Convolutional Neural Networks (CNN) for feature extraction and Long Short-Term Memory networks (LSTM) for capturing temporal dependencies, which is crucial for time-series data like seismic signals.
 
 Here’s why the **CNN-LSTM** model stands out:
 ---------------------------------------------
