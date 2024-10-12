@@ -1,2 +1,2 @@
 # Here this is the practice repo
-## the dummy repos are for the seismic detection
+## The dummy repos are for the seismic detection for Nasa space apps challenge
