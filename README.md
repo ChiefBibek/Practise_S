@@ -1,1 +1,2 @@
-Here this is the practise repo
+Here this is the practice repo
+the dummy repos are for the seismic detection
